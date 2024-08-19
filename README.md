@@ -33,9 +33,11 @@ Atualmente, estou explorando a linguagem C.
 - Email: [mateusmoreirammp052@gmail.com](mailto:mateusmoreirammp052@gmail.com)
 - LinkedIn: [Mateus Moreira](https://www.linkedin.com/in/mateus-moreira-8a8bb1214/)
 
+<!--
 ## 📈 Estatísticas do GitHub
 
 ![Estatísticas do GitHub de Mateus](https://github-readme-stats.vercel.app/api?username=mmp052&show_icons=true&theme=dracula)
+-->
 
 ---
 
